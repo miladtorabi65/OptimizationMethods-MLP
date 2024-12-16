@@ -52,3 +52,5 @@ Access the full project report for detailed explanations:
 ---
 
 ## 📚 **Project Structure**
+
+📂 Project Root ├── 📘 Report_11_MLP.pdf (Full Project Report) ├── 📄 README.md (This File) ├── 📊 AGE_REGRESSION.csv (Dataset) ├── 📂 src (Code Files) └── 📂 notebooks (Jupyter Notebooks for Training)
