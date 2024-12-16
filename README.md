@@ -10,8 +10,6 @@ This repository contains the final project for the Optimization Methods for Data
 The complete project report is available for detailed reference:
 [📘 View Full Report (PDF)](./Report_MLP.pdf)
 
----
-
 # 📚Table of Contents
 1-Problem Description  
 2-Data Preprocessing  
@@ -43,8 +41,8 @@ The complete project report is available for detailed reference:
 ├── 📘 Report_11_MLP.pdf (Full Project Report)  
 ├── 📄 README.md (This File)  
 ├── 📊 AGE_REGRESSION.csv (Dataset)  
-├── 📂 Functions_MLP.py (Code Files)  
-└── 📂 run_MLP.ipynb (Jupyter Notebooks for Training)  
+├── 📂 Functions_MLP.py (functions codes)  
+└── 📂 run_MLP.ipynb (Jupyter Notebooks for Training and running the model)  
 
 
 ---
