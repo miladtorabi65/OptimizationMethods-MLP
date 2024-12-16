@@ -1,5 +1,5 @@
 # OptimizationMethods-MLP
-# 🧠Multi-Layer Perceptron for Age Regression
+# 🧠 A Multi-Layer Perceptron from scratch using Numpy for Age Regression
 Final Project for Optimization Methods for Data Science
 
 Author: Milad Torabi | Date: December 16, 2024
