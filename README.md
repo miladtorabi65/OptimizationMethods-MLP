@@ -8,5 +8,5 @@ This repository contains the final project for the Optimization Methods for Data
 
 # 📄Report
 The complete project report is available for detailed reference:
-[📘 View Full Report (PDF)](./path/to/Report_MLP.pdf)
+[📘 View Full Report (PDF)](./Report_MLP.pdf)
 (Make sure to replace ./path/to/Report_11_MLP.pdf with the actual path to the file in your repository)
