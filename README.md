@@ -58,3 +58,38 @@ Access the full project report for detailed explanations:
 ├── 📊 AGE_REGRESSION.csv (Dataset)  
 ├── 📂 Functions_MLP.py (Code Files)  
 └── 📂 run_MLP.ipynb (Jupyter Notebooks for Training)  
+
+
+---
+
+## 📈 **Performance**
+| **Metric**         | **Train**         | **Validation**    | **Test**         |
+|-------------------|-------------------|-------------------|------------------|
+| **Initial Loss**   | 1681.80           | -                 | -                |
+| **Final Loss**     | 99.07             | -                 | 91.31            |
+| **Initial MAPE**   | 99.70             | -                 | -                |
+| **Final MAPE**     | 22.93             | 23.06             | 23.56            |
+
+---
+
+## 📚 **Methodology**
+1. **Data Preprocessing**:  
+   - Features were Z-score normalized for better convergence.  
+   - The dataset was split into features (X) and target (age).  
+
+2. **MLP Architecture**:  
+   - 2 Hidden Layers: 128, 64 Neurons (Tanh Activation)  
+   - Custom Backpropagation Implementation  
+   - Weight Initialization: **He** for Tanh activation  
+
+3. **Optimization**:  
+   - **L-BFGS-B**: Converged from initial loss 1681.80 to final loss 91.31.  
+   - **Stopping Criteria**: 200 iterations, tolerance = \(10^{-4}\).  
+
+📧 Contact
+For any questions or suggestions, feel free to reach out:
+Milad Torabi
+📧 [miladtorabi65@gmail.com]
+
+
+
