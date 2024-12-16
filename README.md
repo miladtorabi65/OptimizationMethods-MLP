@@ -41,9 +41,8 @@ The complete project report is available for detailed reference:
 ├── 📘 Report_11_MLP.pdf (Full Project Report)  
 ├── 📄 README.md (This File)  
 ├── 📊 AGE_REGRESSION.csv (Dataset)  
-├── 📂 Functions_MLP.py (functions codes)  
-└── 📂 run_MLP.ipynb (Jupyter Notebooks for Training and running the model)  
-
+├── 📜 Functions_MLP.py (Functions and Utility Codes)  
+└── 📒 run_MLP.ipynb (Jupyter Notebook for Training and Running the Model)  
 
 ---
 
